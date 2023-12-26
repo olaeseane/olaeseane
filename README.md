@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some Rust and Cairo projects
+- 🔭 I’m currently working on some Rust and Solana projects
 
 <!--
 **olaeseane/olaeseane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
